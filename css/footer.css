@@ -1,0 +1,35 @@
+.wrap__footer {
+  padding: 20px 0 30px 0;
+  background-color: #959595;
+  color: #f9f9f9;
+  font-size: 14px;
+  height: 120px;
+}
+
+.footer__btm-nav {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  margin: 5px 100px 35px 100px;
+  font-weight: 700;
+}
+
+.footer__btm-nav a {
+  text-decoration: none;
+  color: #f9f9f9;
+}
+
+.wrap__footer .footer__main {
+  margin: 0 100px 0 100px;
+}
+
+.footer__left {
+  float: left;
+}
+
+.footer__right {
+  font-size: 12px;
+  margin-right: 360px;
+  float: right;
+  line-height: 20px;
+}

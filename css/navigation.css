@@ -1,0 +1,26 @@
+.wrap__nav {
+  height: 40px;
+  background-color: #576e8b;
+  list-style: none;
+}
+
+.wrap__nav ul {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 180px 0 180px;
+  font-size: 18px;
+}
+
+.wrap__nav li {
+  margin-top: 10px;
+}
+
+.wrap__nav ul li ul {
+  display: none;
+}
+
+.wrap__nav a {
+  display: inline-block;
+  text-decoration: none;
+  color: #f9f9f9;
+}

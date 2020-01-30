@@ -1,0 +1,35 @@
+.wrap__header {
+  height: 120px;
+  margin: 0 100px 0 100px;
+}
+
+.header__logo {
+  float: left;
+  margin-top: 40px;
+}
+
+.header__search {
+  float: left;
+  border: 2px solid #576e8b;
+  margin-top: 40px;
+  margin-left: 240px;
+  padding: 5px 10px 3px;
+  width: 260px;
+}
+
+.header__search select {
+  border: 0;
+  width: 80px;
+  height: 28px;
+}
+
+.header__search input[type="text"] {
+  border: 0;
+  height: 20px;
+  width: 240px;
+}
+
+.wrap__header .header__right {
+  float: right;
+  margin-top: 45px;
+}

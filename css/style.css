@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+KR:400,500&display=swap");
+@import url("https://fonts.googleapis.com/css?family=East+Sea+Dokdo&display=swap");
+@import "reset.css";
+@import "header.css";
+@import "navigation.css";
+@import "main.css";
+@import "footer.css";
+
+.wrap {
+  width: 100%;
+}
+
+body {
+  font-family: "Nanum Gothic", sans-serif;
+}
+
+main {
+  background-image: url(../img/hospital.jpg);
+  background-size: cover;
+  height: 800px;
+  padding: 60px 100px;
+}

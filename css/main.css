@@ -1,0 +1,167 @@
+/********************************************************/
+/***** top **********************************************/
+/********************************************************/
+.wrap__main-top {
+  height: 400px;
+  margin-bottom: 80px;
+}
+
+.main__top-left {
+  float: left;
+  color: #f9f9f9;
+  text-align: center;
+  width: 500px;
+  height: 380px;
+}
+
+.main__top-left p {
+  margin-left: 80px;
+  text-shadow: 1px 1px 5px #0f0f0f;
+}
+
+.paragraph__top {
+  font-family: "East Sea Dokdo", cursive;
+  margin-top: 40px;
+  font-size: 48px;
+  line-height: 100%;
+  word-spacing: 1px;
+  letter-spacing: 1px;
+}
+
+.paragraph__mid {
+  font-family: "Noto Sans KR", sans-serif;
+  margin-top: 50px;
+  font-weight: 500;
+  font-size: 28px;
+}
+
+.paragraph__btm {
+  font-family: "Noto Sans KR", sans-serif;
+  margin-top: 10px;
+  font-size: 18px;
+  line-height: 120%;
+}
+
+/********************************************************/
+
+.main__top-right {
+  float: right;
+  background-image: url(../img/content_bg.png);
+  width: 500px;
+  height: 350px;
+}
+
+.main__top-right ul {
+  margin: 0px 10px 25px 30px;
+  overflow: hidden;
+  text-align: center;
+}
+
+.main__top-right ul li {
+  float: left;
+  width: 120px;
+  margin: 20px 15px 23px 15px;
+}
+
+.main__top-right a {
+  color: #0f0f0f;
+  font-size: 15px;
+  text-decoration: none;
+  align-content: center;
+}
+
+/********************************************************/
+/** bottom **********************************************/
+/********************************************************/
+
+.main__btm-left {
+  float: left;
+  background-image: url(../img/content_bg2.png);
+  width: 320px;
+  height: 300px;
+  margin-right: 40px;
+}
+
+.main__btm-left__header {
+  margin: 20px 0 0 20px;
+}
+
+.main__btm-left__content {
+  margin: 25px 0 0 18px;
+}
+
+/********************************************************/
+
+.main__btm-mid {
+  float: left;
+  background-image: url(../img/content_bg2.png);
+  width: 380px;
+  height: 300px;
+  font-size: 14px;
+}
+
+.main__btm-mid h3 {
+  float: left;
+  margin: 20px 0 0 20px;
+}
+
+.main__btm-mid h4 {
+  float: right;
+  margin: 20px 20px 0 0;
+}
+
+.main__btm-mid ul {
+  margin: 80px 0 0 20px;
+}
+
+.main__btm-mid ul li {
+  background: url(../img/content_dot.png) no-repeat left 5px;
+  margin-top: 27px;
+  padding-left: 10px;
+}
+
+.main__btm-mid a {
+  color: #0f0f0f;
+  text-decoration: none;
+}
+
+.main__btm-mid span {
+  float: right;
+  margin-right: 20px;
+  font-size: 12px;
+}
+
+/********************************************************/
+
+.main__btm-right {
+  float: right;
+  background-image: url(../img/content_bg2.png);
+  width: 370px;
+  height: 300px;
+  margin-left: 30px;
+}
+
+.main__btm-right h3 {
+  margin: 20px 0 0 20px;
+}
+
+.main__btm-right h4 {
+  float: left;
+  margin: 80px 0 0 40px;
+}
+
+.main__btm-right h5 {
+  margin: 200px 0 0px 30px;
+}
+
+.main__btm-right ul {
+  float: right;
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 10px 0 0;
+}
+
+.main__btm-right ul li {
+  margin-right: 20px;
+  text-align: center;
+}
